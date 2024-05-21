@@ -1,0 +1,3 @@
+C:\Users\wills\Desktop\Shortcuts\Files\Github\quizAPI\quizAPI\obj\Debug\quizAPI.njsproj.AssemblyReference.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\quizAPI\quizAPI\obj\Debug\quizAPI.njsproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\Github\quizAPI\quizAPI\bin\Microsoft.NodejsTools.WebRole.dll
